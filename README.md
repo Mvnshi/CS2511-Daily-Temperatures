@@ -1,4 +1,4 @@
-# CS511-Daily-Temperatures
+# CS2511-Daily-Temperatures
 Chapter 09 Individual Lab Assignment
 
 **Assignment:** Write a program that stores the weekly (Monday thru Sunday) daily temperatures for four weeks. Your program should allow the user to enter the temperatures and print a report with headings, the temperature for each day (your two-dimensional array), the calculated weekly average temperature for each of the four weeks (rows) and the calculated average temperature for each of the days of the week (cols). In addition, create a single-dimensional array of Strings representing the days of the week (Monday-Sunday) using an initializer list. Your program output should look like the following:
